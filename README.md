@@ -1,5 +1,5 @@
 # Chess-Board-2D-Visualization
-A project created for the needs of the course Introduction to Artificial Intelligence. It consists of breaking down an image of a chessboard into 64 images of each square, reducing the problem to figure recognition. The VGG16 network was used for this purpose.
+A project created for the needs of the course Introduction to Artificial Intelligence. It consists of cutting an image of a chessboard into 64 images of each square, reducing the problem to figure recognition. The VGG16 network was used for this purpose.
 
 Very good accuracy was achieved for this dataset, but very poor accuracy if predicting for a board from another dataset, as visible in the last cell of the IPython Notebook file. By adapting the dataset to one's own problem, good accuracy can be achieved in all cases.
 
